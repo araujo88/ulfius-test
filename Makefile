@@ -1,2 +1,3 @@
 all:
-	gcc -o test main.c -lulfius
+	gcc -o main main.c -lulfius -ljansson
+
